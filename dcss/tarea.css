@@ -1,0 +1,50 @@
+p{
+ font-size: 20px 
+ color
+}
+p[name$=”mi”] { font-size: 20px }
+p[name*=”mi”] { font-size: 20px }
+
+h1{
+
+}
+h1{
+ background-color: blue;
+ font-style: italic;
+}
+#yo{
+	background-color: blue;
+
+}
+#yo2{
+	background-color: pink;
+}
+#yo3{
+	background-color: green; 
+}
+#yo4{
+	background-color: yellow;
+}
+#yo5{
+	background-color: orange;
+}
+ #color1{
+ 	background-color: pink;
+ }
+ #color2{
+ 	background-color: green;
+ }
+ #color3{
+ 	background-color: yellow;
+ }
+ #color4{
+ 	background-color: orange;
+ }
+ h2{
+ 	background-color: brown;
+ }
+ p{
+ 	background-color: red;
+ }
+ 
+ 
